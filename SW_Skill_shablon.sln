@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW_Skill_shablon", "SW_Skill_shablon\SW_Skill_shablon.csproj", "{0EDCAA18-C015-4BC6-824D-81CF7188A4A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EDCAA18-C015-4BC6-824D-81CF7188A4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDCAA18-C015-4BC6-824D-81CF7188A4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDCAA18-C015-4BC6-824D-81CF7188A4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDCAA18-C015-4BC6-824D-81CF7188A4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2DEFCA-7A12-4447-8397-D83BF1013DB0}
+	EndGlobalSection
+EndGlobal
